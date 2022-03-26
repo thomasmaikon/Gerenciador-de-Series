@@ -1,7 +1,7 @@
 namespace GerenciadorDeSeries.Model
 {
     public enum Genero{
-        Ação=1,
+        Acao=1,
         Aventura,
         Comedia,
         Danca,
